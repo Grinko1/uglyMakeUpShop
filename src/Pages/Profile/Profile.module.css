@@ -1,0 +1,34 @@
+.form{
+    height: 1000px;
+    margin: 20px;
+    background-color:rgb(243, 181, 170);
+   
+    
+}
+input{
+    flex-direction: column;
+    margin: 10px;
+    width: 600px;
+    border: none;
+    border-radius:10px;
+    text-decoration: none;
+    align-items: center;
+}
+.button{
+        width: 400px;
+    border-radius: 20px;
+    background-color: #d45083c2;
+   
+    background:  #d45083c2;;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #f07777 #fc8d89 #db6e9b;
+    color: #111;
+    cursor: pointer;
+  }
+  .submited{
+      width: 100px;
+  }
+.done> .anticon{
+margin-top: 150px;
+}

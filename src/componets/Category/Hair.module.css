@@ -1,0 +1,44 @@
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    margin-top: 150px;
+    display:inline-block;
+  }
+  .product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 10px;
+    padding: 20px;
+    cursor: pointer;
+    max-height: 400px;
+    min-width: 100px;
+    background-color: white;
+    margin-top: 10px;
+    width: 310px;
+   
+  }
+  .h1{
+    color: mediumorchid;
+  }
+  .desc{
+    
+    height:130px;
+    width: 270px;
+  }
+  .name{
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .img {
+    width: 300px;
+    height: 300px;
+  }
+  .button{
+    border: none;
+    background-color: #d45083c2;
+  }
+  
